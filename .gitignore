@@ -3,3 +3,4 @@
 Makefile
 data_centers
 seq_camedoids
+mpi_camedoids
