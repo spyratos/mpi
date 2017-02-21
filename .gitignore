@@ -1,0 +1,5 @@
+*.csv
+*.csv.*
+Makefile
+data_centers
+seq_camedoids
